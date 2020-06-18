@@ -53,5 +53,17 @@
 }
 
 .header h2{
-   color: #7d3cd1;
+   color: #501997;
+}
+
+.header h4{
+   margin-bottom: 20px;
+}
+
+.description{
+   position: relative;
+}
+
+.description p{
+   margin: 20px 30px;
 }
